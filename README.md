@@ -1,0 +1,2 @@
+# BPMultipeerConnectivity
+ Leveraging the Multipeer Connectivity framework, Bluetooth and WiFi (P2P WiFi) technologies are available between close Apple devices (iMac / iPad / iPhone) even when not connected to WiFi (WLAN) or mobile network (xG) Discover and connect to achieve near field communication.  Much like the transfer of files with AirDrop, the Multipeer Connectivity extensions can be viewed as compensation that AirDrop can not use directly at the expense of having to do it yourself.
